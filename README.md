@@ -1,4 +1,4 @@
-# CS5530 Assignment 1
+# CS5530 Assignment 2
 
 Ben Blake \<bebpph@umsystem.edu\>
 
